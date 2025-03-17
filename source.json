@@ -480,6 +480,22 @@
       ],
       "Description": "Draws a line in a few styles from the player to the users cursor to keep track of it",
       "EndorsedAuthor": "DetectiveSquirrel"
+    },
+    {
+      "Name": "UltimatumCheck",
+      "OriginalAuthor": "instantsc",
+      "Repositories": [
+        {
+          "Author": "exApiTools",
+          "Name": "UltimatumCheck"
+        },
+        {
+          "Author": "deafwave",
+          "Name": "UltimatumCheck"
+        }
+      ],
+      "Description": "Draws a line in a few styles from the player to the users cursor to keep track of it",
+      "EndorsedAuthor": "DetectiveSquirrel"
     }
   ]
 }
